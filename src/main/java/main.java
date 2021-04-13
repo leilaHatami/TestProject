@@ -4,7 +4,6 @@ public class main
 
         System.out.println("Hello World");
         System.out.println("Hello every one");
-        System.out.println("Heloooooo");
         System.out.println("I did update from my workplace");
     }
 
